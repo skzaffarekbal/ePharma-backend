@@ -1,7 +1,6 @@
 # ePharma-backend
 
 This is the backend of ePharma E-commerce website project.
-[Link to Working project's website](https://pandemic-e-pharma.herokuapp.com/)
 
 ### Tech Used
 
